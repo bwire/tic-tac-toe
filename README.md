@@ -2,6 +2,7 @@
 
 Keeping Up With JS
 Homework Assignment #8: Events
+(https://pirple.thinkific.com)
  
 
 Details:
