@@ -13,14 +13,6 @@ td {
   font-size: xx-large;
 }
 
-.x {
-  color: red;
-}
-
-.o {
-  color: black;
-}
-
 .horizontal {
   border-top: 1px solid black;
   border-bottom: 1px solid black
